@@ -1,0 +1,325 @@
+.introduction {
+    background-color: black;
+    width: 70px;
+    height: 545px;
+    float: right;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.introduction2 {
+    background-color: black; 
+    width: 70px; 
+    height: 109px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    color: white;
+}
+
+.introduction3 {
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+    width: 91%;
+    height: 230px; 
+    float: left;
+    margin-top: 2px; 
+    margin-left: 25px;
+    z-index: 0;
+}
+
+.introduction31 {
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+    width: 53.5%; 
+    height: 300px; 
+    float: left;
+    margin-top: 250px; 
+    margin-left: 25px;
+}
+
+.introduction32 {
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+    width: 36%;
+    height: 300px; 
+    float: left; 
+    margin-top: 250px; 
+    margin-left: 730px;
+}
+
+.introduction33 {
+    background-color: black; 
+    width: 90.5%; 
+    height: 80px; 
+    float: left; 
+    margin-top: 7px; 
+    margin-left: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction34 {
+    background-color: black; 
+    width: 44.5%; 
+    height: 270px; 
+    float: left; 
+    margin-top: 100px; 
+    margin-left: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction35 {
+    background-color: black; 
+    width: 44.5%; 
+    height: 270px; 
+    float: left; 
+    margin-top: 100px; 
+    margin-left: 610px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction36 {
+    background-color: black; 
+    width: 44.5%; 
+    height: 180px; 
+    float: left; 
+    margin-top: 380px; 
+    margin-left: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction37 {
+    background-color: black; 
+    width: 44.5%; 
+    height: 180px; 
+    float: left; 
+    margin-top: 380px; 
+    margin-left: 610px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction38 {
+    background-color: black; 
+    width: 44.5%; 
+    height: 540px; 
+    float: left; 
+    margin-top: 13px; 
+    margin-left: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction39 {
+    background-color: black; 
+    width: 44.5%; 
+    height: 540px; 
+    float: left; 
+    margin-top: 13px; 
+    margin-left: 610px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+    color: white;
+}
+
+.introduction4 {
+    background-color: white; 
+    width: 50px; 
+    height: 1px; 
+    float: right; 
+    margin-top: 115px; 
+    margin-left: 1210px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+.introduction41 {
+    background-color: white;
+    margin-top: 227px; 
+    margin-left: 1210px;
+    width: 50px; 
+    height: 1px; 
+    float: right; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+.introduction42 {
+    background-color: white; 
+    width: 50px; 
+    height: 1px; 
+    float: right; 
+    margin-top: 339px; 
+    margin-left: 1210px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+.introduction43 {
+    background-color: white; 
+    width: 50px; 
+    height: 1px; 
+    float: right; 
+    margin-top: 451px; 
+    margin-left: 1210px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+
+
+.home {
+    margin-left: 1212px;
+    margin-top: 40px;
+    width: 4vw;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.about {
+    margin-left: 1212px;
+    margin-top: 150px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.solution {
+    margin-left: 1212px; 
+    margin-top: 260px; 
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.other {
+    margin-left: 1212px;
+    margin-top: 370px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.donate {
+    margin-left: 1212px; 
+    margin-top: 480px; 
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.text {
+    text-align: center;
+    z-index: 5;
+    font-family: Georgia, serif;
+}
+
+.smalltext {
+    padding-left: 5px;
+    z-index: 5;
+    font-family: Georgia, serif;
+}
+
+body {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+  
+  }
